@@ -1,4 +1,9 @@
 # Import Template Checker
+## **Note:** This repo is an deprecated, and is being kept live in the case others need to view it
+<br/>
+
+## Please refer to the updated Import Template Checker V4 repo here: [https://github.com/Cirufrank/importTemplateScriptV4](https://github.com/Cirufrank/importTemplateScriptV4)
+<br/>
 
 ![](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
